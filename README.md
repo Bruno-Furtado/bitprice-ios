@@ -13,6 +13,8 @@ O BitPrice é um aplicativo que apresenta o histórico de preços do Bitcoin.
 
 # Requisitos
 
+[![Join the chat at https://gitter.im/Bruno-Furtado/bitprice-ios](https://badges.gitter.im/Bruno-Furtado/bitprice-ios.svg)](https://gitter.im/Bruno-Furtado/bitprice-ios?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - Xcode 9 ou superior
 - Ruby (padrão no MacOS)
 
